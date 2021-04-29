@@ -1,1 +1,1 @@
-# This is my most recent résumé. Please feel free to look.
+# This is my most recent résumé and CV. Please feel free to look.
