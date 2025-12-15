@@ -3,4 +3,5 @@ remote_theme: pages-themes/slate@v0.2.0 # this line adds the slate theme of Jeky
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "CV"
+title: "CV and Resume Dump"
+description: "This page essentially just has one obvious job. Maybe I will re-vamp it at a later date. 😅"
